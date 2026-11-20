@@ -1,0 +1,23 @@
+{
+ "v": 1,
+ "repo": "mholovakin/hata-data",
+ "branch": "main",
+ "users": {
+  "mykyta": {
+   "name": "mykyta",
+   "color": "#3f7fc4",
+   "iter": 600000,
+   "salt": "w6uAyh9dG2nhlwU2e+PBcA==",
+   "iv": "hmF+fSOaRCVKcTpt",
+   "ct": "tMsxr2RGUNbMsl9S5Vbai3pJ0gwNJ4N7djKvPIcL2iwYC6ryhG3rvIP6fcy0/RkpiaECPlvRfBJYmJnGm6utePkjVzyJ4kFycyzSkDAsquEcA58fbMMZyTGgvvgva2OUn5d5NkcqM9SwJzUGAw=="
+  },
+  "mari4ka": {
+   "name": "mari4ka",
+   "color": "#c95f38",
+   "iter": 600000,
+   "salt": "I74jCtQ+0ez0HnH4LoZBmw==",
+   "iv": "weUywJ1HEnJ6DFsr",
+   "ct": "AmzDQuC5hOtQtRFQ83NnJpDo+/XlvNxIs4lZpZYPSpTHaS5F1Di6LvB1Xo/tMDRBZMzIFRLCBCaP9FXQdehvIH9KqotYfQoX95mZChRDMoor7Cg+gkb6pgeGqYii6VtgPKCA6v/3LAdL3gcezw=="
+  }
+ }
+}
